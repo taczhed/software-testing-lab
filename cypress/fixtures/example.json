@@ -1,5 +1,5 @@
 {
-  "name": "Using fixtures to represent data",
-  "email": "hello@cypress.io",
-  "body": "Fixtures are a great way to mock data for responses to routes"
+  "cart_details": "Using fixtures to represent data",
+  "item_count": 50,
+  "total": "$11.44"
 }

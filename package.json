@@ -3,5 +3,8 @@
     "@types/cypress": "^1.1.6",
     "cypress": "^14.2.0",
     "typescript": "^5.8.2"
+  },
+  "scripts": {
+    "open": "npx cypress open"
   }
 }
